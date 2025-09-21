@@ -16,9 +16,9 @@ ENV/
 # VS Code settings
 .vscode/
 
-# Data files (optional, remove if you want to share)
-data/
-archive/
+# Data files (opcional, descomenta si NO quieres compartir)
+#data/
+#archive/
 
 # OS files
 .DS_Store
