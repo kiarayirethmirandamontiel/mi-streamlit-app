@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mi aplicación Streamlit
 
 Esta es una aplicación desarrollada con Streamlit para análisis y recomendación de cultivos.
@@ -20,3 +21,7 @@ Esta es una aplicación desarrollada con Streamlit para análisis y recomendaci�
 
 ## Autor
 kiarayirethmirandamontiel
+=======
+# mi-streamlit-app
+El problema se enmarca en una cooperativa agrícola que busca optimizar el rendimiento de sus cultivos. La cooperativa enfrenta desafíos asociados a la variabilidad de los suelos y a las condiciones ambientales cambiantes, lo cual repercute directamente en la productividad y calidad de la cosecha.
+>>>>>>> 10e88ce6818d2e00b8329024ee3865b413943fbf
